@@ -1,7 +1,6 @@
 LogRotator
 ===============
-2015-10-17
-
+Forked from https://github.com/lingtalfi/logrotator
 
 
 
